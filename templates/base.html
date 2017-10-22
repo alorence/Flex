@@ -110,8 +110,8 @@
           <li><a href="{{ SITEURL }}/{{ page.url }}{% if not DISABLE_URL_HASH %}#{{ page.slug }}{% endif %}">{{ page.title }}</a></li>
           {% endfor %}
 
-          {% for name, link in LINKS %}
-          <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+          {% for link in LINKS %}
+          <li><a href="{{ link.1 }}" target="{{ link.2|default('_blank') }}">{{ link.0 }}</a></li>
           {% endfor %}
         </ul>
       </nav>
