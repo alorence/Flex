@@ -50,6 +50,8 @@
     <meta name="robots" content="{{ ROBOTS }}" />
   {% endif %}
 
+  {% include "additional_meta.html" ignore missing %}
+
   {% if BROWSER_COLOR %}
     <!-- Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="{{ BROWSER_COLOR }}">
