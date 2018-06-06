@@ -23,7 +23,6 @@ DON'T send any questions, issues or anything related to Flex to my personal emai
 
 - [AddThis](http://www.addthis.com/) Share Buttons and Related Posts
 - [Disqus](https://disqus.com/)
-- [duoshuo](http://duoshuo.com/) (new in 2.2)
 - [Gauges Analytics](http://get.gaug.es/)
 - [Google AdSense](https://www.google.com.br/adsense/start/) (new in 2.1)
 - [Google Analytics](https://www.google.com/analytics/web/)
@@ -35,7 +34,7 @@ DON'T send any questions, issues or anything related to Flex to my personal emai
 
 - [Github Corners](https://github.com/tholman/github-corners) (new in 2.2)
 - [I18N Sub-sites](https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites) (new in 2.0)
-- [Minute read](https://github.com/getpelican/pelican-plugins/tree/master/post_stats)) (new in 2.0)
+- [Minute read](https://github.com/getpelican/pelican-plugins/tree/master/post_stats) (new in 2.0)
 - [Related Posts](https://github.com/getpelican/pelican-plugins/tree/master/related_posts)
 - [Representative image](https://github.com/getpelican/pelican-plugins/tree/master/representative_image) (new in 2.2)
 - [Neighbors](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) (new in 2.2)
@@ -44,7 +43,7 @@ DON'T send any questions, issues or anything related to Flex to my personal emai
 
 The recommend way to install is over [pelican-themes](https://github.com/getpelican/pelican-themes).
 
-The `master` branch is the development branch. If you're happy with fresh new things and maybe sometimes (~most of time~) broken things you can clone the `master`, but I would recommend to you to clone a tag branch.
+The `master` branch is the development branch. If you're happy with fresh new things and maybe broken things you can clone the `master`, but I would recommend to you to clone a tag branch.
 
 ## Documentation
 
@@ -60,19 +59,13 @@ As always, if you want something that only make sense to you, just fork Flex and
 
 Are you using this theme? Support bug fixes and new features.
 
-**PayPal** - [Click Here](http://bit.ly/flex-paypal)
-
-**BTC** - `1GgoDLWS1HoCkq1HgtpFHzbi5DnDceLGfd`
-
-![BTC](https://github.com/alexandrevicenzi/Flex/blob/master/btc.png)
-
-**DOGE** - `DLXtxaMmyoe4Z8uBcnjTCheAZRsAeWSgyp`
+[Click here](https://www.alexandrevicenzi.com/donate) to donate.
 
 ## Live example
 
-You can see how this theme looks like [here](https://blog.alexandrevicenzi.com/flex-pelican-theme.html).
+You can see how this theme looks like at [http://flex.alxd.me/blog/](http://flex.alxd.me/blog/).
 
-![Screenshot](https://github.com/alexandrevicenzi/Flex/blob/master/screenshot.png)
+The code is available in this project inside `docs` folder.
 
 ## Translate
 
